@@ -7,7 +7,7 @@
 #include <ctime>
 
 using namespace std;
-
+//test of test 2
 
 
 typedef char ElemType;
